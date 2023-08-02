@@ -80,6 +80,7 @@ class SettingsPage(Basepage):
 
     def __init__(self, driver):
         super().__init__(driver)
+        self.driver.get(Testdata.BASEURL)
 
     """ These are the page actions for the Home_page"""
 

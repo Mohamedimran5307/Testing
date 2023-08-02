@@ -35,6 +35,8 @@ class Homepage(Basepage):
     SELECT_COSTEWARD = (By.ID,"select-costeward-7")
     CANCEL_BUTTON = (By.ID,"add-participant-cancel-button")
     SUBMIT_BUTTON = (By.ID, "add-participant-submit-button")
+
+
     """Constructor of the page class"""
 
     def __init__(self, driver):
