@@ -11,11 +11,18 @@ def init_driver(request):
         # Path to the ChromeDriver executable
         chrome_driver_path = Testdata.CHROME_EXECUTABLE_PATH
 
-        # Create a Service object
-        chrome_service = Service(executable_path=chrome_driver_path)
+        chrome_options = webdriver.ChromeOptions()
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration (necessary for headless on macOS)
+        chrome_options.add_argument("--window-size=1920x1080")  # Set window size (necessary for headless on macOS)
 
-        # Launch ChromeDriver using the Service object
-        driver = webdriver.Chrome(service=chrome_service)
+        # Launch ChromeDriver with headless mode
+        driver = webdriver.Chrome(executable_path=chrome_driver_path, options=chrome_options)
+        # # Create a Service object
+        # chrome_service = Service(executable_path=chrome_driver_path)
+        #
+        # # Launch ChromeDriver using the Service object
+        # driver = webdriver.Chrome(service=chrome_service)
         request.cls.driver = driver
         # yield
         # driver.quit()
