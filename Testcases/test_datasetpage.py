@@ -74,7 +74,7 @@ class Test_datasetpage(Basetest):
         self.datasets_page.do_click(Datasetspage.FILE_FOR_STANDARIZATION)
         sleep(2)
         self.driver.execute_script("window.scrollBy(0,400);")
-        sleep(2)
+        sleep(3)
         self.datasets_page.do_click(Datasetspage.SELECT_DATAPOINT_ATTRIBUTE_STD)
         # sleep(2)
         self.datasets_page.do_click(Datasetspage.DATAPOINT_CATEGORY)
