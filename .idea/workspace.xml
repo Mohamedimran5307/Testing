@@ -5,6 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="011485fb-3af2-4fa6-818a-81154f254bb8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pageobjects/SettingsPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pageobjects/SettingsPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/20ac7473-0bf2-4cd6-9f21-8dd651833fd0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/24b61f2a-8e97-471b-81b4-65bee1301c7d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/2dd14d02-15b5-4bc8-9ff4-f241c7b7fefd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/2e65f03e-892a-4dfe-b65d-928c4383e36d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/32494334-683f-4b0d-bfed-3d8beb73cdbd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/3dfb5f41-7f59-485a-a3ab-7b33d72df801-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/4da9573b-58dc-425a-b900-c4e925e1c9ce-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/58a0d510-d7b1-4ce1-a71d-9e5475389b7d-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/7500172d-a095-4b09-a3c3-0a7e8a9831c6-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/78a1cc3e-79cb-4d20-a0be-28308922c9bd-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/8e427d77-b8c8-4b6f-bece-96f889118bb3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/b6aa8e48-939e-4de5-83fb-b95bf4b6920c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/b89a8b8b-93d1-4ddb-ab4e-dd8b0aae15d1-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/e151735c-a455-41a5-afe3-7c4c975950b9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/allure-results/fc7ae295-796f-4ab5-b34b-c4c1ae43a269-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testcases/test_datasetpage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_datasetpage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testcases/test_settingspage.py" beforeDir="false" afterPath="$PROJECT_DIR$/Testcases/test_settingspage.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,18 +53,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/shaikmohamedimran/IdeaProjects/Farmstack 2.0/Testcases",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.17",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "build.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/shaikmohamedimran/IdeaProjects/Farmstack 2.0/Testcases&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.17&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Testcases" />
@@ -56,8 +74,8 @@
       <recent name="$PROJECT_DIR$/Testcases" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_settingspage.Test_Settings_page.test_adding_sub_category">
-    <configuration name="Python tests for test_datasetpage.Test_datasetpage.test_add_dataset" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Delete_Button_Category">
+    <configuration name="Python tests for test_settingspage.Test_Settings_page.test_Adding_Datapoint_Attributes" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Farmstack 2.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -67,11 +85,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_datasetpage.Test_datasetpage.test_add_dataset&quot;" />
+      <option name="_new_target" value="&quot;test_settingspage.Test_Settings_page.test_Adding_Datapoint_Attributes&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_homepage.Test_homepage.test_Home_page_title" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_settingspage.Test_Settings_page.test_Delete_Button_Category" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Farmstack 2.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,26 +99,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_homepage.Test_homepage.test_Home_page_title&quot;" />
+      <option name="_new_target" value="&quot;test_settingspage.Test_Settings_page.test_Delete_Button_Category&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_settingspage.Test_Settings_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Farmstack 2.0" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="SDK_NAME" value="Python 3.10 (Farmstack 2.0)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcases" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_settingspage.Test_Settings_page&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_settingspage.Test_Settings_page.test_adding_sub_category" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_settingspage.Test_Settings_page.test_Delete_Icon_Datapoint" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Farmstack 2.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,39 +113,52 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_settingspage.Test_Settings_page.test_adding_sub_category&quot;" />
+      <option name="_new_target" value="&quot;test_settingspage.Test_Settings_page.test_Delete_Icon_Datapoint&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_settingspage.Test_Settings_page.test_update_account_settings_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_settingspage.Test_Settings_page.test_Deleting_Data_point_attribute" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Farmstack 2.0" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
-      <option name="SDK_NAME" value="Python 3.10 (Farmstack 2.0)" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pageobjects" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcases" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_settingspage.Test_Settings_page.test_update_account_settings_page&quot;" />
+      <option name="_new_target" value="&quot;test_settingspage.Test_Settings_page.test_Deleting_Data_point_attribute&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_settingspage.Test_Settings_page.test_Updating_Datapoint_name" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Farmstack 2.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Testcases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_settingspage.Test_Settings_page.test_Updating_Datapoint_name&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_adding_sub_category" />
-      <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page" />
-      <item itemvalue="Python tests.Python tests for test_datasetpage.Test_datasetpage.test_add_dataset" />
-      <item itemvalue="Python tests.Python tests for test_homepage.Test_homepage.test_Home_page_title" />
-      <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_update_account_settings_page" />
+      <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Adding_Datapoint_Attributes" />
+      <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Delete_Button_Category" />
+      <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Delete_Icon_Datapoint" />
+      <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Deleting_Data_point_attribute" />
+      <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Updating_Datapoint_name" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_adding_sub_category" />
-        <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_update_account_settings_page" />
-        <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page" />
-        <item itemvalue="Python tests.Python tests for test_homepage.Test_homepage.test_Home_page_title" />
-        <item itemvalue="Python tests.Python tests for test_datasetpage.Test_datasetpage.test_add_dataset" />
+        <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Delete_Button_Category" />
+        <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Delete_Icon_Datapoint" />
+        <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Deleting_Data_point_attribute" />
+        <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Updating_Datapoint_name" />
+        <item itemvalue="Python tests.Python tests for test_settingspage.Test_Settings_page.test_Adding_Datapoint_Attributes" />
       </list>
     </recent_temporary>
   </component>
