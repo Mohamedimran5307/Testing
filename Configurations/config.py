@@ -5,8 +5,8 @@ import string
 class Testdata:
     CHROME_EXECUTABLE_PATH = "/Users/shaikmohamedimran/Desktop/D/Web drivers/chromedriver.exe"
 
-    BASEURL = "https://datahubethstage.farmstack.co/"
-    USER_NAME = "imran+1@digitalgreen.org"
+    BASEURL = "https://************/"
+    USER_NAME = "*********"
     OTP = "123456"
     HOMEPAGE_TITLE = "DataHub"
     N = 10
